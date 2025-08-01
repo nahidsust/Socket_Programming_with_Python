@@ -1,7 +1,7 @@
 **Socket programming with python**
 <br>
 1.Socket programming use to communicate with processes over network.<br>
-**Some uses of socket programming**
+**Some uses of socket programming**<br>
 Web servers & clients (HTTP)
 <br>
 Chat applications
