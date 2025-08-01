@@ -2,12 +2,13 @@
 <br>
 1.Socket programming use to communicate with processes over network.<br>
 **Some uses of socket programming**<br>
-Web servers & clients (HTTP)
+<ul>
+  <li>Web servers & clients (HTTP)</li>
 <br>
-Chat applications
+<li>Chat applications</li>
 <br>
-File transfer tools
+  <li>File transfer tools</li>
 <br>
-Multiplayer games
-
+<li>Multiplayer games</li>
+</ul>
 
